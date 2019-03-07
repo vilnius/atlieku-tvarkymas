@@ -1,3 +1,3 @@
 # SĮ „Vilniaus atliekų sistemos administratorius“
 
-Įvairūs SĮ „Vilniaus atliekų sistemos administratorius“ kaupiamų duomenų šaltiniai
+Duomenų šaltinis SĮ „Vilniaus atliekų sistemos administratorius“ kaupiami atliekų vežėjų pateikti duomenys.
